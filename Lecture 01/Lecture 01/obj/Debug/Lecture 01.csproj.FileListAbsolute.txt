@@ -1,0 +1,7 @@
+C:\Users\dimitar.trajkov\source\repos\Lecture 01-Advanced C#\Lecture 01\Lecture 01\bin\Debug\Lecture 01.exe.config
+C:\Users\dimitar.trajkov\source\repos\Lecture 01-Advanced C#\Lecture 01\Lecture 01\bin\Debug\Lecture 01.exe
+C:\Users\dimitar.trajkov\source\repos\Lecture 01-Advanced C#\Lecture 01\Lecture 01\bin\Debug\Lecture 01.pdb
+C:\Users\dimitar.trajkov\source\repos\Lecture 01-Advanced C#\Lecture 01\Lecture 01\obj\Debug\Lecture 01.csprojAssemblyReference.cache
+C:\Users\dimitar.trajkov\source\repos\Lecture 01-Advanced C#\Lecture 01\Lecture 01\obj\Debug\Lecture 01.csproj.CoreCompileInputs.cache
+C:\Users\dimitar.trajkov\source\repos\Lecture 01-Advanced C#\Lecture 01\Lecture 01\obj\Debug\Lecture 01.exe
+C:\Users\dimitar.trajkov\source\repos\Lecture 01-Advanced C#\Lecture 01\Lecture 01\obj\Debug\Lecture 01.pdb
