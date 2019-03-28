@@ -1,0 +1,7 @@
+C:\Users\dimitar.trajkov\source\repos\Lecture 01-Advanced C#\Lecture 02\ASP.NET\ASP.NET\bin\Debug\ASP.NET.exe.config
+C:\Users\dimitar.trajkov\source\repos\Lecture 01-Advanced C#\Lecture 02\ASP.NET\ASP.NET\bin\Debug\ASP.NET.exe
+C:\Users\dimitar.trajkov\source\repos\Lecture 01-Advanced C#\Lecture 02\ASP.NET\ASP.NET\bin\Debug\ASP.NET.pdb
+C:\Users\dimitar.trajkov\source\repos\Lecture 01-Advanced C#\Lecture 02\ASP.NET\ASP.NET\obj\Debug\ASP.NET.csprojAssemblyReference.cache
+C:\Users\dimitar.trajkov\source\repos\Lecture 01-Advanced C#\Lecture 02\ASP.NET\ASP.NET\obj\Debug\ASP.NET.csproj.CoreCompileInputs.cache
+C:\Users\dimitar.trajkov\source\repos\Lecture 01-Advanced C#\Lecture 02\ASP.NET\ASP.NET\obj\Debug\ASP.NET.exe
+C:\Users\dimitar.trajkov\source\repos\Lecture 01-Advanced C#\Lecture 02\ASP.NET\ASP.NET\obj\Debug\ASP.NET.pdb
