@@ -1,0 +1,7 @@
+C:\Users\trajk\OneDrive\Desktop\Предавања\Advanced C Sharp\Advanced-C-programming\Homework 2\Extensions Methods\ExtensionMethods\ExtensionMethods\bin\Debug\ExtensionMethods.exe.config
+C:\Users\trajk\OneDrive\Desktop\Предавања\Advanced C Sharp\Advanced-C-programming\Homework 2\Extensions Methods\ExtensionMethods\ExtensionMethods\bin\Debug\ExtensionMethods.exe
+C:\Users\trajk\OneDrive\Desktop\Предавања\Advanced C Sharp\Advanced-C-programming\Homework 2\Extensions Methods\ExtensionMethods\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+C:\Users\trajk\OneDrive\Desktop\Предавања\Advanced C Sharp\Advanced-C-programming\Homework 2\Extensions Methods\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.csprojAssemblyReference.cache
+C:\Users\trajk\OneDrive\Desktop\Предавања\Advanced C Sharp\Advanced-C-programming\Homework 2\Extensions Methods\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\trajk\OneDrive\Desktop\Предавања\Advanced C Sharp\Advanced-C-programming\Homework 2\Extensions Methods\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.exe
+C:\Users\trajk\OneDrive\Desktop\Предавања\Advanced C Sharp\Advanced-C-programming\Homework 2\Extensions Methods\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.pdb
