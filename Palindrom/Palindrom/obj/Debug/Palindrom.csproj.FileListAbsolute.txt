@@ -1,0 +1,7 @@
+C:\Users\dimitar.trajkov\Desktop\github repo\Advanced-C-programming\Palindrom\Palindrom\Palindrom\bin\Debug\Palindrom.exe.config
+C:\Users\dimitar.trajkov\Desktop\github repo\Advanced-C-programming\Palindrom\Palindrom\Palindrom\bin\Debug\Palindrom.exe
+C:\Users\dimitar.trajkov\Desktop\github repo\Advanced-C-programming\Palindrom\Palindrom\Palindrom\bin\Debug\Palindrom.pdb
+C:\Users\dimitar.trajkov\Desktop\github repo\Advanced-C-programming\Palindrom\Palindrom\Palindrom\obj\Debug\Palindrom.csprojAssemblyReference.cache
+C:\Users\dimitar.trajkov\Desktop\github repo\Advanced-C-programming\Palindrom\Palindrom\Palindrom\obj\Debug\Palindrom.csproj.CoreCompileInputs.cache
+C:\Users\dimitar.trajkov\Desktop\github repo\Advanced-C-programming\Palindrom\Palindrom\Palindrom\obj\Debug\Palindrom.exe
+C:\Users\dimitar.trajkov\Desktop\github repo\Advanced-C-programming\Palindrom\Palindrom\Palindrom\obj\Debug\Palindrom.pdb
